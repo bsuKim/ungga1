@@ -1,0 +1,6 @@
+2020-11-05 11:49:18:113 : task is started
+2020-11-05 11:52:28:464 : PlatMgrGlobalEvent catched
+2020-11-05 11:52:28:480 : task init is finished
+2022-05-07 14:29:08:617 : task is started
+2022-05-07 14:32:17:772 : PlatMgrGlobalEvent catched
+2022-05-07 14:32:17:787 : task init is finished
