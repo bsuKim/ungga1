@@ -4,3 +4,20 @@
 2022-05-07 14:29:08:617 : task is started
 2022-05-07 14:32:17:772 : PlatMgrGlobalEvent catched
 2022-05-07 14:32:17:787 : task init is finished
+
+Authorize Git Credential Manager
+@bsuKimGit Credential Manager by Git Ecosystem
+wants to access your bsuKim account
+Gists
+Read and write access
+Repositories
+Public and private
+Workflow
+Update GitHub Action Workflow files.
+Authorizing will redirect to
+http://127.0.0.1:59454
+
+Owned & operated by GitHub
+Created 4 years ago
+More than 1K GitHub users
+Learn more about OAuth
